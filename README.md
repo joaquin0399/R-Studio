@@ -1,4 +1,4 @@
-Los siguientes scripts conllevan ciertos temas como estadística descriptica, inferencial, limpieza de datos, regresiones logísticas y lineales, árboles de decisión, predicción de modelos, series temporales 
+Los siguientes scripts conllevan ciertos temas como estadística descriptiva, inferencial, limpieza de datos, regresiones logísticas y lineales, árboles de decisión, predicción de modelos, series temporales 
 y matrices de confusión 
 
 La división de temas se los puede encontrar:
